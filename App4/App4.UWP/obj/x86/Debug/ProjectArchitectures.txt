@@ -1,0 +1,2 @@
+C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4.UWP\App4.UWP.csproj;x86
+C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\App4.csproj;neutral

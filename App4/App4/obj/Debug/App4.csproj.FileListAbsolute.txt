@@ -1,0 +1,24 @@
+c:\users\ngoc t p nguyen\documents\visual studio 2015\Projects\App4\App4\App4\bin\Debug\App4.dll
+c:\users\ngoc t p nguyen\documents\visual studio 2015\Projects\App4\App4\App4\bin\Debug\App4.pdb
+c:\users\ngoc t p nguyen\documents\visual studio 2015\Projects\App4\App4\App4\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\ngoc t p nguyen\documents\visual studio 2015\Projects\App4\App4\App4\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\ngoc t p nguyen\documents\visual studio 2015\Projects\App4\App4\App4\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\ngoc t p nguyen\documents\visual studio 2015\Projects\App4\App4\App4\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\ngoc t p nguyen\documents\visual studio 2015\Projects\App4\App4\App4\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\ngoc t p nguyen\documents\visual studio 2015\Projects\App4\App4\App4\obj\Debug\App4.csprojResolveAssemblyReference.cache
+c:\users\ngoc t p nguyen\documents\visual studio 2015\Projects\App4\App4\App4\obj\Debug\App4.dll
+c:\users\ngoc t p nguyen\documents\visual studio 2015\Projects\App4\App4\App4\obj\Debug\App4.pdb
+c:\users\ngoc t p nguyen\documents\visual studio 2015\Projects\App4\App4\App4\obj\Debug\App4.SignInPage.xaml.g.cs
+c:\users\ngoc t p nguyen\documents\visual studio 2015\Projects\App4\App4\App4\obj\Debug\App4.SignUpPage.xaml.g.cs
+C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\bin\Debug\App4.dll
+C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\bin\Debug\App4.pdb
+C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\obj\Debug\App4.csprojResolveAssemblyReference.cache
+C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\obj\Debug\App4.SignInPage.xaml.g.cs
+C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\obj\Debug\App4.SignUpPage.xaml.g.cs
+C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\obj\Debug\App4.dll
+C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\obj\Debug\App4.pdb
