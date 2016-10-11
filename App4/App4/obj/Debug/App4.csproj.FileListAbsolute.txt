@@ -22,3 +22,4 @@ C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\obj\Debug\App4.S
 C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\obj\Debug\App4.dll
 C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\obj\Debug\App4.pdb
 C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\obj\Debug\App4.Dashboard.xaml.g.cs
+C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\obj\Debug\App4.csprojResolveAssemblyReference.cache

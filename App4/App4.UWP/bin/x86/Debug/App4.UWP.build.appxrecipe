@@ -382,6 +382,9 @@
     <AppxPackagedFile Include="C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4.UWP\bin\x86\Debug\App4.UWP.xr.xml">
       <PackagePath>App4.UWP.xr.xml</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\yotsuba.jpg">
+      <PackagePath>App4\yotsuba.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>

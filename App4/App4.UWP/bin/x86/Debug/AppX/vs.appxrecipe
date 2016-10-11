@@ -28,13 +28,13 @@
     <AppXManifest Include="C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-11T00:57:26.819</Modified>
+      <Modified>2016-10-11T01:42:50.716</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4.UWP\bin\x86\Debug\App4.UWP.exe">
       <PackagePath>entrypoint\App4.UWP.exe</PackagePath>
-      <Modified>2016-10-11T00:57:25.172</Modified>
+      <Modified>2016-10-11T01:42:49.971</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ngoc T P Nguyen\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -466,7 +466,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\bin\Debug\App4.dll">
       <PackagePath>App4.dll</PackagePath>
-      <Modified>2016-10-11T00:57:23.162</Modified>
+      <Modified>2016-10-11T01:42:47.210</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -510,6 +510,10 @@
       <PackagePath>App4.UWP.xr.xml</PackagePath>
       <Modified>2016-10-02T07:23:54.670</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\yotsuba.jpg">
+      <PackagePath>App4\yotsuba.jpg</PackagePath>
+      <Modified>2016-10-11T01:39:54.430</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2016-08-08T14:30:35.799</Modified>
@@ -528,7 +532,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4.UWP\bin\x86\Debug\Core\App4.UWP.exe">
       <PackagePath>App4.UWP.exe</PackagePath>
-      <Modified>2016-10-11T00:57:26.816</Modified>
+      <Modified>2016-10-11T01:42:50.709</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

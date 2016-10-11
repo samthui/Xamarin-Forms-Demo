@@ -22,7 +22,7 @@ namespace App4
 
         async void OnSignInButtonClicked(object sender, EventArgs args)
         {
-            if (userNameEntry.Text == "samthui7" && passwordEntry.Text == "randomtest")
+            if (userNameEntry.Text == "samthui7" && passwordEntry.Text == "smisy")
             {
                 await Navigation.PushAsync(new Dashboard());
             }

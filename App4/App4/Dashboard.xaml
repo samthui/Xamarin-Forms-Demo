@@ -2,5 +2,49 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App4.Dashboard">
-  <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
+
+  <Grid>
+    
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto" />
+      <RowDefinition Height="100" />
+      <RowDefinition Height="2*" />
+      <RowDefinition Height="1*" />
+    </Grid.RowDefinitions>
+      
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="*" />
+      <ColumnDefinition Width="*" />
+    </Grid.ColumnDefinitions>
+      
+    <Label Text="Dashboard"
+           Grid.Row="0"
+           Grid.Column="0"
+           FontSize="Small"
+           HorizontalOptions="End" />
+      
+    <Image Grid.Row="1"
+           Grid.Column="0"
+           Grid.ColumnSpan="2"
+           Source="yotsuba.jpg"
+           HorizontalOptions="Center"
+           VerticalOptions="Center" />
+      
+    <BoxView Color="Green"
+             Grid.Row="0"
+             Grid.Column="2"/>
+
+      <BoxView Color="Red"
+               Grid.Row="2"
+               Grid.Column="1"
+               Grid.RowSpan="2"/>
+
+      <BoxView Color="Blue"
+               Opacity="0.5"
+               Grid.Row="3"
+               Grid.Column="0"
+               Grid.ColumnSpan="2"/>
+      
+  </Grid>
+  
 </ContentPage>
