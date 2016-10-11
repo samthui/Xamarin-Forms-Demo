@@ -17,8 +17,8 @@ C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\bin\Debug\Xamari
 C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\bin\Debug\Xamarin.Forms.Xaml.dll
 C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\bin\Debug\Xamarin.Forms.Core.xml
 C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\obj\Debug\App4.csprojResolveAssemblyReference.cache
 C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\obj\Debug\App4.SignInPage.xaml.g.cs
 C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\obj\Debug\App4.SignUpPage.xaml.g.cs
 C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\obj\Debug\App4.dll
 C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\obj\Debug\App4.pdb
+C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\obj\Debug\App4.Dashboard.xaml.g.cs

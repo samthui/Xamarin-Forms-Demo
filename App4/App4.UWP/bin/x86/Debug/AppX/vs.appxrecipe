@@ -28,13 +28,13 @@
     <AppXManifest Include="C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-10T15:38:22.928</Modified>
+      <Modified>2016-10-11T00:57:26.819</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4.UWP\bin\x86\Debug\App4.UWP.exe">
       <PackagePath>entrypoint\App4.UWP.exe</PackagePath>
-      <Modified>2016-10-10T15:38:21.068</Modified>
+      <Modified>2016-10-11T00:57:25.172</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ngoc T P Nguyen\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -466,7 +466,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4\bin\Debug\App4.dll">
       <PackagePath>App4.dll</PackagePath>
-      <Modified>2016-10-02T09:12:43.903</Modified>
+      <Modified>2016-10-11T00:57:23.162</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -524,11 +524,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-10-10T15:38:22.497</Modified>
+      <Modified>2016-10-11T00:57:26.463</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ngoc T P Nguyen\Workspace\Xamarin-Forms-Demo\App4\App4.UWP\bin\x86\Debug\Core\App4.UWP.exe">
       <PackagePath>App4.UWP.exe</PackagePath>
-      <Modified>2016-10-10T15:38:22.917</Modified>
+      <Modified>2016-10-11T00:57:26.816</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

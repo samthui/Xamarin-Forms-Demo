@@ -14,19 +14,11 @@ namespace App4 {
     using Xamarin.Forms.Xaml;
     
     
-    public partial class SignInPage : global::Xamarin.Forms.ContentPage {
-        
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.Entry userNameEntry;
-        
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.Entry passwordEntry;
+    public partial class Dashboard : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            this.LoadFromXaml(typeof(SignInPage));
-            userNameEntry = this.FindByName<global::Xamarin.Forms.Entry>("userNameEntry");
-            passwordEntry = this.FindByName<global::Xamarin.Forms.Entry>("passwordEntry");
+            this.LoadFromXaml(typeof(Dashboard));
         }
     }
 }

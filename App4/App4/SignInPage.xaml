@@ -4,20 +4,26 @@
              x:Class="App4.SignInPage"
              Padding="20, 50, 20, 0">
   <StackLayout Spacing="20">
-    <Entry Placeholder="Username or Email"
+    <Entry x:Name="userNameEntry"
+        Placeholder="Username or Email"
         AnchorX="0">
       <Entry.Triggers>
         <Trigger TargetType="Entry" Property="IsFocused" Value="True">
         </Trigger>
       </Entry.Triggers>
     </Entry>
-    <Entry Placeholder="Password"
+    <Entry x:Name="passwordEntry"
+        Placeholder="Password"
+        IsPassword = "true"
         AnchorX="0">
       <Entry.Triggers>
         <Trigger TargetType="Entry" Property="IsFocused" Value="True">
         </Trigger>
       </Entry.Triggers>
     </Entry>
+    <Button Text="Sign in"
+            HorizontalOptions="Center"
+            Clicked="OnSignInButtonClicked"/>
     <Button Text="Sign up"
             HorizontalOptions="Center"
             Clicked="OnSignUpButtonClicked"/>

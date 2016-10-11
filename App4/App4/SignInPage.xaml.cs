@@ -19,5 +19,13 @@ namespace App4
         {
             await Navigation.PushAsync(new SignUpPage());
         }
+
+        async void OnSignInButtonClicked(object sender, EventArgs args)
+        {
+            if (userNameEntry.Text == "samthui7" && passwordEntry.Text == "randomtest")
+            {
+                await Navigation.PushAsync(new Dashboard());
+            }
+        }
     }
 }
